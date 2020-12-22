@@ -1,0 +1,5 @@
+robustness
+opencv-python
+scikit-image
+wand
+kornia==0.4.0

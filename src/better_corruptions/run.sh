@@ -1,0 +1,1 @@
+python -m fast_corruptions.benchmark --out-dir src/example_figs --corruption elastic_transform --severity all --compare --dataset imagenet --subset 10 --batch-size 500 --dataset-path /scratch/engstrom_scratch/imagenet --threads 30 --out-dir fast_corruptions/example_figs/

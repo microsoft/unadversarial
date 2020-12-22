@@ -1,0 +1,19 @@
+{
+    "arch": "resnet18",
+    "dataset": "imagenet",
+    "boosting": "3d",
+    "patch_size": 200,
+    "training_mode": "booster",
+    "patch_lr": 0.01,
+    "epochs": 10,
+    "batch_size": 500,
+    "render_samples": 4,
+    "exp_name": "imagenet_nr_car",
+    "data": "/imagenet",
+    "num_texcoord_renderers": 35,
+    "save_only_last": true,
+    "pytorch_pretrained": true,
+    "adv_train": false,
+    "forward_render": true,
+    "resume": true
+}
