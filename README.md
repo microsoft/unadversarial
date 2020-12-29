@@ -4,7 +4,7 @@ This repository contains the code necessary to replicate the major results of ou
 
 **Unadversarial Examples: Designing Objects for Robust Vision** <br>
 *Hadi Salman\*, Andrew Ilyas\*, Logan Engstrom\*, Sai Vemprala, Aleksander Madry, Ashish Kapoor* <br>
-[**Paper**](https://www.microsoft.com/en-us/research/publication/unadversarial-examples-designing-objects-for-robust-vision/) <br>
+[**Paper**](https://arxiv.org/abs/2012.12235) <br>
 [**Blogpost (MSR)**](https://www.microsoft.com/en-us/research/blog/unadversarial-examples-designing-objects-for-robust-vision/) <br> 
 [**Blogpost (Gradient Science)**](https://www.gradientscience.org/unadversarial) <br>
 
