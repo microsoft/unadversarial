@@ -8,6 +8,14 @@ This repository contains the code necessary to replicate the major results of ou
 [**Blogpost (MSR)**](https://www.microsoft.com/en-us/research/blog/unadversarial-examples-designing-objects-for-robust-vision/) <br> 
 [**Blogpost (Gradient Science)**](https://www.gradientscience.org/unadversarial) <br>
 
+```bibtex
+@article{salman2020unadversarial,
+  title={Unadversarial Examples: Designing Objects for Robust Vision},
+  author={Hadi Salman and Andrew Ilyas and Logan Engstrom and Sai Vemprala and Aleksander Madry and Ashish Kapoor},
+  journal={arXiv preprint arXiv:2012.12235},
+  year={2020}
+}
+```
 
 ## Getting started
 The following steps will get you set up with the required packages (additional packages are required for the 3D textures setting, described below):
@@ -101,8 +109,8 @@ Environments, 3D models, along with python API for controlling these objects and
 * [Andrew Ilyas](https://twitter.com/andrew_ilyas)
 * [Logan Engstrom](https://twitter.com/logan_engstrom) 
 * [Sai Vemprala](https://twitter.com/saihv) 
-* [Ashish Kapoor](https://twitter.com/akapoor_av8r) 
 * [Aleksander Madry](https://twitter.com/aleks_madry) 
+* [Ashish Kapoor](https://twitter.com/akapoor_av8r) 
 
 ## Contributing
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
